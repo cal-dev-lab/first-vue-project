@@ -1,4 +1,6 @@
 # first-vue-project
+Install TailwindCSS with Vue:
+https://www.youtube.com/watch?v=ZAjUGkhqUP4
 
 ## Project setup
 ```
